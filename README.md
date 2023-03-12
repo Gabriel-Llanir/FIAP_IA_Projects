@@ -2,4 +2,5 @@
 <br>
 Repositório utilizado para desenvolvimento e entrega de projetos (FIAP - Disruptive Architectures)
 <hr>
+<br>
 As entregas serão separadas em Branches, para aproveitamento de um único repositório em todas as entregas e, da mesma forma, mantendo-as organizadas.
